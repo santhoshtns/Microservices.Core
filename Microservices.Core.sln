@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservices.Kubernetes", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservices.FEReact", "Microservices.FEReact\Microservices.FEReact.csproj", "{6C877FDD-2C3F-4B5E-B9A6-9E6840E6ADE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservices.Web", "Microservices.Web\Microservices.Web.csproj", "{B55D613A-899B-4DB6-9FDB-1F587597A17A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6C877FDD-2C3F-4B5E-B9A6-9E6840E6ADE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C877FDD-2C3F-4B5E-B9A6-9E6840E6ADE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C877FDD-2C3F-4B5E-B9A6-9E6840E6ADE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B55D613A-899B-4DB6-9FDB-1F587597A17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55D613A-899B-4DB6-9FDB-1F587597A17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55D613A-899B-4DB6-9FDB-1F587597A17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55D613A-899B-4DB6-9FDB-1F587597A17A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
